@@ -3,6 +3,6 @@
 int main(void)
 {
 	printf("_putshar\n");
-	return 0;
+	return (0);
 }
 
